@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="stsimecodep"
+  version="4.0.0"
+  description="Calculates TNC's unified ecological departure from reference conditions in ST-Sim"
+  location="https://github.com/ApexRMS/stsimecodep/releases/download/4.0.0/stsimecodep-4-0-0.ssimpkg"
+  builtFor="stsim_4.0.0">
+</package>

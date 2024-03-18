@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="dgsim"
+  version="3.0.0"
+  description="Simulates demographics of wildlife populations"
+  location="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/dgsim-3-0-0.ssimpkg">
+</package>
