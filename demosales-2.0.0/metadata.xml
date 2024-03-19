@@ -3,5 +3,6 @@
   name="demosales"
   version="2.0.0"
   description="Demo Sales SyncroSim Package"
+  url="https://apexrms.github.io/demosales/"
   location="https://github.com/ApexRMS/demosales/releases/download/2.0.0/demosales-2-0-0.ssimpkg">
 </package>

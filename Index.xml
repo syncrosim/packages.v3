@@ -4,12 +4,14 @@
     name="demosales"
     version="2.0.0"
     description="Demo Sales SyncroSim Package"
+    url="https://apexrms.github.io/demosales/"
     location="https://github.com/ApexRMS/demosales/releases/download/2.0.0/demosales-2-0-0.ssimpkg">
   </package>
   <package
     name="dgsim"
     version="3.0.0"
     description="Simulates demographics of wildlife populations"
+    url="https://apexrms.github.io/dgsim/"
     location="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/dgsim-3-0-0.ssimpkg">
   </package>
   <package
@@ -22,6 +24,7 @@
     name="stsimecodep"
     version="4.0.0"
     description="Calculates TNC's unified ecological departure from reference conditions in ST-Sim"
+    url="https://docs.stsim.net/"
     location="https://github.com/ApexRMS/stsimecodep/releases/download/4.0.0/stsimecodep-4-0-0.ssimpkg"
     builtFor="stsim_4.0.0">
   </package>
