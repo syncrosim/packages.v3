@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="linkmodels"
+  version="1.0.0"
+  description="A demonstration package that links two models"
+  url="https://apexrms.github.io/linkmodels/"
+  location="https://github.com/ApexRMS/linkmodels/releases/download/1.0.0/linkmodels-1-0-0.ssimpkg"
+  builtFor="dgsim_3.0.0|demosales_2.0.0">
+</package>
