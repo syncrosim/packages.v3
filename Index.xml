@@ -15,19 +15,6 @@
     location="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/dgsim-3-0-0.ssimpkg">
   </package>
   <package
-    name="linkmodels"
-    version="1.0.0"
-    description="A demonstration package that links two models"
-    location="https://github.com/ApexRMS/linkmodels/releases/download/1.0.0/linkmodels-1-0-0.ssimpkg"
-    builtFor="dgsim_3.0.0|demosales_2.0.0">
-  </package>
-  <package
-    name="null"
-    version="1.0.0"
-    description="Null Package for Demonstration Purposes"
-    location="https://github.com/ApexRMS/null/releases/download/1.0.0/null-1-0-0.ssimpkg">
-  </package>
-  <package
     name="stsim"
     version="4.0.0"
     description="The ST-Sim state-and-transition simulation model"
