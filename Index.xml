@@ -15,6 +15,20 @@
     location="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/dgsim-3-0-0.ssimpkg">
   </package>
   <package
+    name="helloworld"
+    version="2.0.0"
+    description="Example demonstrating how to create a SyncroSim package"
+    url="https://apexrms.github.io/helloworld/"
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.0.0/helloworld-2-0-0.ssimpkg">
+  </package>
+  <package
+    name="helloworld"
+    version="2.0.1"
+    description="Example demonstrating how to create a SyncroSim package"
+    url="https://apexrms.github.io/helloworld/"
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.0.1/helloworld-2-0-1.ssimpkg">
+  </package>
+  <package
     name="stsim"
     version="4.0.0"
     description="The ST-Sim state-and-transition simulation model"
