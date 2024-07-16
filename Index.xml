@@ -50,4 +50,11 @@
     location="https://github.com/ApexRMS/stsimecodep/releases/download/4.0.0/stsimecodep-4-0-0.ssimpkg"
     builtFor="stsim_4.0.0">
   </package>
+  <package
+    name="wisdm"
+    version="2.0.0"
+    description="Workbench for Integrated Species Distribution Modeling"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdm/releases/download/2.0.0/wisdm-2-0-0.ssimpkg">
+  </package>
 </packages>
