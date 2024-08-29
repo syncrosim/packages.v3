@@ -29,6 +29,20 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.0.1/helloworld-2-0-1.ssimpkg">
   </package>
   <package
+    name="helloworldTime"
+    version="2.0.0"
+    description="Example demonstrating how to use timesteps with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/2.0.0/helloworldTime-2-0-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldTimePy"
+    version="2.0.0"
+    description="Example demonstrating how to use timesteps with a python model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTimePy/releases/download/2.0.0/helloworldTimePy-2-0-0.ssimpkg">
+  </package>
+  <package
     name="omniscape"
     version="2.1.1"
     description="Omni-directional habitat connectivity based on circuit theory"

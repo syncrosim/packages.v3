@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="helloworldTimePy"
+  version="2.0.0"
+  description="Example demonstrating how to use timesteps with a python model"
+  url="https://apexrms.github.io/helloworldEnhanced/"
+  location="https://github.com/ApexRMS/helloworldTimePy/releases/download/2.0.0/helloworldTimePy-2-0-0.ssimpkg">
+</package>
