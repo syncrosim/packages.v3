@@ -1,6 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <packages>
   <package
+    name="burnP3Plus" 
+    version="2.0.0" 
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.0.0/burnP3Plus-2-0-0.ssimpkg" 
+    description="Burn-P3+ package for burn probability modeling" 
+    url="https://burnp3.github.io/BurnP3Plus/">
+  </package>
+  <package
+    name="burnP3PlusCell2Fire" 
+    version="2.0.0" 
+    location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.0.0/burnP3PlusCell2Fire-2-0-0.ssimpkg" 
+    description="Cell2Fire fire growth model package for BurnP3+" 
+    url="https://burnp3.github.io/BurnP3Plus/">
+  </package>
+  <package
+    name="burnP3PlusPrometheus" 
+    version="2.0.0" 
+    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg" 
+    type="Base" 
+    description="Prometheus fire growth model package for BurnP3+" 
+    url="https://burnp3.github.io/BurnP3Plus/">
+  </package>
+  <package
     name="demosales"
     version="2.0.0"
     description="Demo Sales SyncroSim Package"
