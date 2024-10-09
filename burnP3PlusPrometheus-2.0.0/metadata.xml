@@ -3,7 +3,6 @@
   name="burnP3PlusPrometheus" 
   version="2.0.0" 
   location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg" 
-  type="Base" 
   description="Prometheus fire growth model package for BurnP3+" 
   url="https://burnp3.github.io/BurnP3Plus/">
 </package>
