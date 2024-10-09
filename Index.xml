@@ -3,23 +3,23 @@
   <package
     name="burnP3Plus" 
     version="2.0.0" 
-    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.0.0/burnP3Plus-2-0-0.ssimpkg" 
     description="Burn-P3+ package for burn probability modeling" 
-    url="https://burnp3.github.io/BurnP3Plus/">
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.0.0/burnP3Plus-2-0-0.ssimpkg" >
   </package>
   <package
     name="burnP3PlusCell2Fire" 
-    version="2.0.0" 
-    location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.0.0/burnP3PlusCell2Fire-2-0-0.ssimpkg" 
+    version="2.0.0"  
     description="Cell2Fire fire growth model package for BurnP3+" 
-    url="https://burnp3.github.io/BurnP3Plus/">
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.0.0/burnP3PlusCell2Fire-2-0-0.ssimpkg">
   </package>
   <package
     name="burnP3PlusPrometheus" 
     version="2.0.0" 
-    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg" 
     description="Prometheus fire growth model package for BurnP3+" 
-    url="https://burnp3.github.io/BurnP3Plus/">
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg">
   </package>
   <package
     name="demosales"
