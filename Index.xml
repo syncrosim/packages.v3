@@ -50,6 +50,13 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.0.1/helloworld-2-0-1.ssimpkg">
   </package>
   <package
+    name="helloworldPipeline"
+    version="2.0.0"
+    description="Example demonstrating how to use pipelines with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.0.0/helloworldPipeline-2-0-0.ssimpkg">
+  </package>
+  <package
     name="helloworldTime"
     version="2.0.0"
     description="Example demonstrating how to use timesteps with an R model"
@@ -62,6 +69,13 @@
     description="Example demonstrating how to use timesteps with a python model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldTimePy/releases/download/2.0.0/helloworldTimePy-2-0-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="2.0.0"
+    description="Example demonstrating how to use iterations with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.0.0/helloworldUncertainty-2-0-0.ssimpkg">
   </package>
   <package
     name="omniscape"
