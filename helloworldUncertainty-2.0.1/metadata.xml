@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="helloworldUncertainty"
-  version="2.0.0"
+  version="2.0.1"
   description="Example demonstrating how to use iterations with an R model"
   url="https://apexrms.github.io/helloworldEnhanced/"
-  location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.0.0/helloworldUncertainty-2-0-0.ssimpkg">
+  location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.0.1/helloworldUncertainty-2-0-1.ssimpkg">
 </package>
