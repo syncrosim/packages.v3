@@ -115,17 +115,10 @@
   </package>
   <package
     name="wisdm"
-    version="2.0.1"
+    version="2.1.0"
     description="Workbench for Integrated Species Distribution Modeling"
     url="https://apexrms.github.io/wisdm/"
-    location="https://github.com/ApexRMS/wisdm/releases/download/2.0.1/wisdm-2-0-1.ssimpkg">
-  </package>
-  <package
-    name="wisdm"
-    version="2.0.5"
-    description="Workbench for Integrated Species Distribution Modeling"
-    url="https://apexrms.github.io/wisdm/"
-    location="https://github.com/ApexRMS/wisdm/releases/download/2.0.5/wisdm-2-0-5.ssimpkg">
+    location="https://github.com/ApexRMS/wisdm/releases/download/2.1.0/wisdm-2-1-0.ssimpkg">
   </package>
   <package
     name="wisdmStsimConnector"
@@ -133,5 +126,12 @@
     description="Connector package between WISDM and ST-Sim"
     url="https://apexrms.github.io/wisdm/"
     location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.0.0/wisdmStsimConnector-1-0-0.ssimpkg">
+  </package>
+  <package
+    name="wisdmStsimConnector"
+    version="1.0.1"
+    description="Connector package between WISDM and ST-Sim"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.0.1/wisdmStsimConnector-1-0-1.ssimpkg">
   </package>
 </packages>
