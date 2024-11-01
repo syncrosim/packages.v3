@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package
-  name="stsim"
-  version="4.0.0"
-  description="The ST-Sim state-and-transition simulation model"
-  url="https://docs.stsim.net/"
-  location="https://github.com/ApexRMS/stsim/releases/download/4.0.0/stsim-4-0-0.ssimpkg">
-</package>
