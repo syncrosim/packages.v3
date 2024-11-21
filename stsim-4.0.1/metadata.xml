@@ -5,4 +5,21 @@
   description="The ST-Sim state-and-transition simulation model"
   url="https://docs.stsim.net/"
   location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
+
+	<onlineLibrary
+		name="non-spatial-example" 
+		displayName="Non Spatial Example"
+		description="Example Non Spatial ST-Sim Library" 
+		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.ssimbak"
+		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.png">	
+	</onlineLibrary>
+
+	<onlineLibrary
+		name="spatial-example"
+		displayName="Spatial Example"
+		description="Example Spatial ST-Sim Library"
+		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.ssimbak"
+		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.png">
+	</onlineLibrary>	
+	
 </package>
