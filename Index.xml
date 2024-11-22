@@ -34,6 +34,13 @@
     description="Simulates demographics of wildlife populations"
     url="https://apexrms.github.io/dgsim/"
     location="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/dgsim-3-0-0.ssimpkg">
+  	<onlineLibrary
+  		name="simple-population-model"
+  		displayName="Simple Pop. Model"
+  		description="Simple Population Model"
+  		libraryLocation="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/simple-population-model.ssimbak"
+  		imageLocation="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/simple-population-model.png">
+  	</onlineLibrary>
   </package>
   <package
     name="helloworld"
