@@ -5,4 +5,13 @@
   description="Omni-directional habitat connectivity based on circuit theory"
   url="https://apexrms.github.io/omniscape/"
   location="https://github.com/ApexRMS/omniscape/releases/download/2.1.1/omniscape-2-1-1.ssimpkg">
+
+  <onlineLibrary 
+    name="omniscape example" 
+    displayName="Habitat Connectivity (Maryland)"
+    description="This library demonstrates the omniscape SyncroSim package."
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/Habitat%20Connectivity%20%28Maryland%29.ssimbak"
+    imageLocation="">
+  </onlineLibrary>
+
 </package>

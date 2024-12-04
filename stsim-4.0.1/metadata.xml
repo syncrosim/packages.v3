@@ -7,19 +7,19 @@
   location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
 
 	<onlineLibrary
-		name="non-spatial-example" 
-		displayName="Non Spatial Example"
-		description="Example Non Spatial ST-Sim Library" 
-		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.ssimbak"
-		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.png">	
+		name="wisdm-example" 
+		displayName="wisdm Example"
+		description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA." 
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example.png">	
 	</onlineLibrary>
 
 	<onlineLibrary
-		name="spatial-example"
-		displayName="Spatial Example"
-		description="Example Spatial ST-Sim Library"
-		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.ssimbak"
-		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.png">
+		name="wisdm-maxent-example"
+		displayName="wisdm Maxent Example"
+		description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA."
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-maxent-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example-maxent.png">
 	</onlineLibrary>	
 	
 </package>
