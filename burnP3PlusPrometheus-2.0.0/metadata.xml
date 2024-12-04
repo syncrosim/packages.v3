@@ -7,9 +7,9 @@
   location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg">
 
   <onlineLibrary 
-    name="glacier national park example" 
+    name="glacier-national-park-example" 
     displayName="Glacier National Park Example"
-    description="An example library used to demonstrate a variety of configuration options in BurnP3+. NOTE: To reduce file size, individual burn maps and Prometheus secondary outputs have been retained for only the first 5 Monte Carlo iterations."
+    description="Example library using the Prometheus fire growth model in BurnP3+"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.0/Glacier%20National%20Park%20Example.ssimbak"
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.0/glacier-example.png">
   </onlineLibrary>

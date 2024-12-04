@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
-  name="stsim"
-  version="4.0.1"
-  description="The ST-Sim state-and-transition simulation model"
-  url="https://docs.stsim.net/"
-  location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
+	name="stsim"
+	version="4.0.1"
+	description="The ST-Sim state-and-transition simulation model"
+	url="https://docs.stsim.net/"
+	location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
 
-	<onlineLibrary
-		name="wisdm-example" 
-		displayName="wisdm Example"
-		description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA." 
-		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example.ssimbak"
-		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example.png">	
+	<onlineLibrary 
+		name="non-spatial-example" 
+		displayName="Non Spatial Example"
+		description="Example library using a Non Spatial ST-Sim state-and-transition simulation model"
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.png">
 	</onlineLibrary>
 
-	<onlineLibrary
-		name="wisdm-maxent-example"
-		displayName="wisdm Maxent Example"
-		description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA."
-		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-maxent-example.ssimbak"
-		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example-maxent.png">
-	</onlineLibrary>	
-	
+	<onlineLibrary 
+		name="spatial-example" 
+		displayName="Spatial Example"
+		description="Example library using a Spatial ST-Sim state-and-transition simulation model"
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.png">
+	</onlineLibrary>
+
 </package>

@@ -7,9 +7,9 @@
   location="https://github.com/ApexRMS/helloworldSpatial/releases/download/2.0.0/helloworldSpatial-2-0-0.ssimpkg">
 
   <onlineLibrary 
-    name="helloworldSpatial example" 
+    name="helloworldSpatial-example" 
     displayName="helloworld Spatial Example"
-    description="Template library for helloworldSpatial, demonstrating how to use spatial data in SyncroSim."
+    description="Example library demonstrating the use of spatial data with an R model"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/Helloworld%20Spatial%20Example.ssimbak"
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/example-library.png">
   </onlineLibrary>
