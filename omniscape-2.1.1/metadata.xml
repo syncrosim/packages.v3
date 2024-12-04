@@ -11,7 +11,7 @@
     displayName="Habitat Connectivity (Maryland)"
     description="Example library for omniscape that calculates and classifies habitat connectivity in Maryland, USA"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/Habitat%20Connectivity%20%28Maryland%29.ssimbak"
-    imageLocation="">
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
   </onlineLibrary>
 
 </package>
