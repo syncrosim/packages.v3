@@ -8,7 +8,7 @@
 
   <onlineLibrary 
     name="helloworldSpatial-example" 
-    displayName="Helloworld Spatial Example"
+    displayName="example-library"
     description="Example library demonstrating the use of spatial data with an R model"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/Spatial%20Example.ssimbak"
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/helloworldEnhanced.png">
