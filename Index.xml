@@ -8,18 +8,32 @@
     location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.0.0/burnP3Plus-2-0-0.ssimpkg" >
   </package>
   <package
-    name="burnP3PlusCell2Fire" 
-    version="2.0.0"  
-    description="Cell2Fire fire growth model package for BurnP3+" 
+    name="burnP3PlusCell2Fire"
+    version="2.0.0"
+    description="Cell2Fire fire growth model package for BurnP3+"
     url="https://burnp3.github.io/BurnP3Plus/"
     location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.0.0/burnP3PlusCell2Fire-2-0-0.ssimpkg">
+    <onlineLibrary 
+      name="burnP3PlusCell2Fire-example" 
+      displayName="Cell2Fire Example"
+      description="Example library using the Cell2Fire fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.0.0/Cell2Fire%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.0.0/cell2fire-example.png">
+    </onlineLibrary>
   </package>
   <package
-    name="burnP3PlusPrometheus" 
-    version="2.0.0" 
-    description="Prometheus fire growth model package for BurnP3+" 
+    name="burnP3PlusPrometheus"
+    version="2.0.0"
+    description="Prometheus fire growth model package for BurnP3+"
     url="https://burnp3.github.io/BurnP3Plus/"
     location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg">
+    <onlineLibrary 
+      name="glacier-national-park-example" 
+      displayName="Glacier National Park Example"
+      description="Example library using the Prometheus fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.0/Glacier%20National%20Park%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.0/glacier-example.png">
+    </onlineLibrary>
   </package>
   <package
     name="demosales"
@@ -27,6 +41,13 @@
     description="Demo Sales SyncroSim Package"
     url="https://apexrms.github.io/demosales/"
     location="https://github.com/ApexRMS/demosales/releases/download/2.0.0/demosales-2-0-0.ssimpkg">
+    <onlineLibrary 
+      name="demosales-example" 
+      displayName="Demo Sales Example"
+      description="Example library that demonstrates the basics of SyncroSim."
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.0.0/Demo%20Sales%20-%20Basic.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.0.0/demosales-basic.png">
+    </onlineLibrary>
   </package>
   <package
     name="dgsim"
@@ -37,9 +58,9 @@
   	<onlineLibrary
   		name="simple-population-model"
   		displayName="Simple Pop. Model"
-  		description="Simple Population Model"
-  		libraryLocation="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/simple-population-model.ssimbak"
-  		imageLocation="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/simple-population-model.png">
+  		description="Example library for DG-Sim demonstrating a simple population model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.0.0/Simple%20Population%20Model%20Example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.0.0/simple-population-model.png">
   	</onlineLibrary>
   </package>
   <package
@@ -76,6 +97,13 @@
     description="Example demonstrating how to use spatial data with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldSpatial/releases/download/2.0.0/helloworldSpatial-2-0-0.ssimpkg">
+    <onlineLibrary 
+      name="helloworldSpatial-example" 
+      displayName="Helloworld Spatial Example"
+      description="Example library demonstrating the use of spatial data with an R model"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/Spatial%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/helloworldEnhanced.png">
+    </onlineLibrary>
   </package>
   <package
     name="helloworldTime"
@@ -104,27 +132,34 @@
     description="Omni-directional habitat connectivity based on circuit theory"
     url="https://apexrms.github.io/omniscape/"
     location="https://github.com/ApexRMS/omniscape/releases/download/2.1.1/omniscape-2-1-1.ssimpkg">
+    <onlineLibrary 
+      name="omniscape-example" 
+      displayName="Habitat Connectivity (Maryland)"
+      description="Example library for omniscape that calculates and classifies habitat connectivity in Maryland, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/Habitat%20Connectivity%20%28Maryland%29.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
+    </onlineLibrary>
   </package>
   <package
-    name="stsim"
-    version="4.0.1"
-    description="The ST-Sim state-and-transition simulation model"
-    url="https://docs.stsim.net/"
-    location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
-  	<onlineLibrary
+  	name="stsim"
+  	version="4.0.1"
+  	description="The ST-Sim state-and-transition simulation model"
+  	url="https://docs.stsim.net/"
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
+  	<onlineLibrary 
   		name="non-spatial-example" 
-  		displayName="Non Spatial Example"
-  		description="Example Non Spatial ST-Sim Library" 
-  		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.ssimbak"
-  		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.png">	
+  		displayName="non spatial Example"
+  		description="Example library using a Non Spatial ST-Sim state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.png">
   	</onlineLibrary>
-  	<onlineLibrary
-  		name="spatial-example"
-  		displayName="Spatial Example"
-  		description="Example Spatial ST-Sim Library"
-  		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.ssimbak"
-  		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.png">
-  	</onlineLibrary>	
+  	<onlineLibrary 
+  		name="spatial-example" 
+  		displayName="spatial Example"
+  		description="Example library using a Spatial ST-Sim state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.png">
+  	</onlineLibrary>
   </package>
   <package
     name="stsimecodep"
@@ -140,6 +175,20 @@
     description="Workbench for Integrated Species Distribution Modeling"
     url="https://apexrms.github.io/wisdm/"
     location="https://github.com/ApexRMS/wisdm/releases/download/2.1.0/wisdm-2-1-0.ssimpkg">
+    <onlineLibrary 
+      name="wisdm-example" 
+      displayName="wisdm Example"
+      description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example.png">
+    </onlineLibrary>
+    <onlineLibrary 
+      name="wisdm-maxent-example" 
+      displayName="wisdm maxent Example"
+      description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example-maxent.png">
+    </onlineLibrary>
   </package>
   <package
     name="wisdmStsimConnector"
