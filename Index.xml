@@ -99,10 +99,10 @@
     location="https://github.com/ApexRMS/helloworldSpatial/releases/download/2.0.0/helloworldSpatial-2-0-0.ssimpkg">
     <onlineLibrary 
       name="helloworldSpatial-example" 
-      displayName="example-library"
+      displayName="Helloworld Example"
       description="Example library demonstrating the use of spatial data with an R model"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/Spatial%20Example.ssimbak"
-      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/helloworldEnhanced.png">
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.0.0/helloworld-spatial-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -137,7 +137,7 @@
       displayName="Omniscape Example"
       description="Example library for omniscape that calculates and classifies habitat connectivity in Maryland, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscapeExample.ssimbak"
-      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon-resized.png">
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
     </onlineLibrary>
   </package>
   <package
