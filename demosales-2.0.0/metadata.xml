@@ -5,4 +5,13 @@
   description="Demo Sales SyncroSim Package"
   url="https://apexrms.github.io/demosales/"
   location="https://github.com/ApexRMS/demosales/releases/download/2.0.0/demosales-2-0-0.ssimpkg">
+
+  <onlineLibrary 
+    name="demosales-example" 
+    displayName="Demo Sales Example"
+    description="Example library that demonstrates the basics of SyncroSim."
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.0.0/Demo%20Sales%20-%20Basic.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.0.0/demosales-basic.png">
+  </onlineLibrary>
+
 </package>

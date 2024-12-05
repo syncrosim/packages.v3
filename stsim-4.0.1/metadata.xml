@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
-  name="stsim"
-  version="4.0.1"
-  description="The ST-Sim state-and-transition simulation model"
-  url="https://docs.stsim.net/"
-  location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
+	name="stsim"
+	version="4.0.1"
+	description="The ST-Sim state-and-transition simulation model"
+	url="https://docs.stsim.net/"
+	location="https://github.com/ApexRMS/stsim/releases/download/4.0.1/stsim-4-0-1.ssimpkg">
 
-	<onlineLibrary
+	<onlineLibrary 
 		name="non-spatial-example" 
-		displayName="Non Spatial Example"
-		description="Example Non Spatial ST-Sim Library" 
-		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.ssimbak"
-		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/non-spatial-example.png">	
+		displayName="non spatial Example"
+		description="Example library using a Non Spatial ST-Sim state-and-transition simulation model"
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.png">
 	</onlineLibrary>
 
-	<onlineLibrary
-		name="spatial-example"
-		displayName="Spatial Example"
-		description="Example Spatial ST-Sim Library"
-		libraryLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.ssimbak"
-		imageLocation="https://github.com/ApexRMS/stsim/releases/download/4.0.1/spatial-example.png">
-	</onlineLibrary>	
-	
+	<onlineLibrary 
+		name="spatial-example" 
+		displayName="spatial Example"
+		description="Example library using a Spatial ST-Sim state-and-transition simulation model"
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.png">
+	</onlineLibrary>
+
 </package>

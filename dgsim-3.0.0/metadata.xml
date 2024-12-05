@@ -9,9 +9,9 @@
 	<onlineLibrary
 		name="simple-population-model"
 		displayName="Simple Pop. Model"
-		description="Simple Population Model"
-		libraryLocation="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/simple-population-model.ssimbak"
-		imageLocation="https://github.com/ApexRMS/dgsim/releases/download/3.0.0/simple-population-model.png">
+		description="Example library for DG-Sim demonstrating a simple population model"
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.0.0/Simple%20Population%20Model%20Example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.0.0/simple-population-model.png">
 	</onlineLibrary>
 	
 </package>
