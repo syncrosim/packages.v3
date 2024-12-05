@@ -8,7 +8,7 @@
 
 	<onlineLibrary 
 		name="non-spatial-example" 
-		displayName="non spatial Example"
+		displayName="Non-Spatial Example"
 		description="Example library using a Non Spatial ST-Sim state-and-transition simulation model"
 		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.ssimbak"
 		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/non-spatial-example.png">
@@ -16,7 +16,7 @@
 
 	<onlineLibrary 
 		name="spatial-example" 
-		displayName="spatial Example"
+		displayName="Spatial Example"
 		description="Example library using a Spatial ST-Sim state-and-transition simulation model"
 		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.ssimbak"
 		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.0.1/spatial-example.png">
