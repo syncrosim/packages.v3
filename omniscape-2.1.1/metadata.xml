@@ -14,4 +14,12 @@
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
   </onlineLibrary>
 
+  <onlineLibrary 
+    name="omniscapeImpact-example" 
+    displayName="Omniscape Impact Example" 
+    description="Example library for omniscapeImpact that compares changes in habitat connectivity in Maryland, USA" 
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/OmiscapeImpactExample.ssimbak" 
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/omniscape-icon.png">
+  </onlineLibrary>
+
 </package>
