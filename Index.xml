@@ -162,6 +162,13 @@
   	</onlineLibrary>
   </package>
   <package
+  	name="stsim"
+  	version="4.3.5"
+  	description="The ST-Sim state-and-transition simulation model"
+  	url="https://docs.stsim.net/"
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.3.5/stsim-4-3-5.ssimpkg">
+  </package>
+  <package
     name="stsimecodep"
     version="4.0.0"
     description="Calculates TNC's unified ecological departure from reference conditions in ST-Sim"
