@@ -139,6 +139,13 @@
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
     </onlineLibrary>
+    <onlineLibrary 
+      name="omniscapeImpact-example" 
+      displayName="Omniscape Impact Example" 
+      description="Example library for omniscapeImpact that compares changes in habitat connectivity in Maryland, USA" 
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/OmiscapeImpactExample.ssimbak" 
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/omniscape-icon.png">
+    </onlineLibrary>
   </package>
   <package
   	name="stsim"
@@ -167,6 +174,20 @@
   	description="The ST-Sim state-and-transition simulation model"
   	url="https://docs.stsim.net/"
   	location="https://github.com/ApexRMS/stsim/releases/download/4.3.5/stsim-4-3-5.ssimpkg">
+  	<onlineLibrary 
+  		name="non-spatial-example" 
+  		displayName="Non-Spatial Example"
+  		description="Example library using a non-spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/non-spatial-example.png">
+  	</onlineLibrary>
+  	<onlineLibrary 
+  		name="spatial-example" 
+  		displayName="Spatial Example"
+  		description="Example library using a spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/spatial-example.png">
+  	</onlineLibrary>
   </package>
   <package
     name="stsimecodep"
