@@ -8,8 +8,8 @@
 
   <onlineLibrary 
     name="omniscapeImpact-example" 
-    displayName="omniscapeImpact Example"
-    description="Example library for omniscapeImpact that calculates changes in connectivity categories from a baseline in Maryland, USA"
+    displayName="Omniscape Impact Example"
+    description="Example library for Omniscape Impact that calculates changes in connectivity categories from a baseline in Maryland, USA"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/OmiscapeImpact%20Example.ssimbak"
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/omniscape-icon.png">
   </onlineLibrary>
