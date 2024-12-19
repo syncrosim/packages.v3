@@ -6,7 +6,9 @@
   url="https://github.com/ApexRMS/omniscapeImpact"
   location="https://github.com/ApexRMS/omniscapeImpact/releases/download/2.0.0/omniscapeImpact-2-0-0.ssimpkg">
 
-  <onlineLibrary name="omniscapeImpact-example" displayName="OmniscapeImpact Example"
+  <onlineLibrary 
+    name="omniscapeImpact-example" 
+    displayName="omniscapeImpact Example"
     description="Example library for omniscapeImpact that calculates changes in connectivity categories from a baseline in Maryland, USA"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/OmiscapeImpact%20Example.ssimbak"
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/omniscape-icon.png">

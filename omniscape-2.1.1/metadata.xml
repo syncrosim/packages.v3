@@ -8,7 +8,7 @@
 
   <onlineLibrary 
     name="omniscape-example" 
-    displayName="Omniscape Example"
+    displayName="omniscape Example"
     description="Example library for omniscape that calculates and classifies habitat connectivity in Maryland, USA"
     libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-example.ssimbak"
     imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
