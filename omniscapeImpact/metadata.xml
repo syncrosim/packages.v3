@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package
-  name="omniscapeImpact"
-  version="2.0.0"
-  description="Calculates changes in connectivity categories from a baseline"
-  url="https://github.com/ApexRMS/omniscapeImpact"
-  location="https://github.com/ApexRMS/omniscapeImpact/releases/download/2.0.0/omniscapeImpact-2-0-0.ssimpkg">
-</package>
