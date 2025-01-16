@@ -8,6 +8,13 @@
     location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.0.0/burnP3Plus-2-0-0.ssimpkg" >
   </package>
   <package
+    name="burnP3Plus" 
+    version="2.1.0" 
+    description="Burn-P3+ package for burn probability modeling" 
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.1.0/burnP3Plus-2-1-0.ssimpkg" >
+  </package>
+  <package
     name="burnP3PlusCell2Fire"
     version="2.0.0"
     description="Cell2Fire fire growth model package for BurnP3+"
@@ -21,6 +28,20 @@
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.0.0/cell2fire-example.png">
     </onlineLibrary>
   </package>
+  <package 
+      name="burnP3FireSTARR" 
+      version="1.0.3"
+      description="FireSTARR fire growth model package for BurnP3+"
+      url="https://burnp3.github.io/BurnP3Plus/"
+      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.0.3/burnP3PlusFireSTARR-1-0-3.ssimpkg">
+      <onlineLibrary 
+          name="glacier-national-park-example-firestarr"
+          displayName="Glacier Example (FireSTARR)"
+          description="Example library using the FireSTARR fire growth model in BurnP3+"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.0.3/firestarr-example.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.0.3/glacier-example.png">
+      </onlineLibrary>
+  </package>
   <package
     name="burnP3PlusPrometheus"
     version="2.0.0"
@@ -28,11 +49,25 @@
     url="https://burnp3.github.io/BurnP3Plus/"
     location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.0/burnP3PlusPrometheus-2-0-0.ssimpkg">
     <onlineLibrary 
-      name="glacier-national-park-example" 
-      displayName="Glacier Example"
+      name="glacier-national-park-example-prometheus" 
+      displayName="Glacier Example (Prometheus)"
       description="Example library using the Prometheus fire growth model in BurnP3+"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.0/Glacier%20National%20Park%20Example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.0/glacier-example.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="burnP3PlusPrometheus"
+    version="2.0.1"
+    description="Prometheus fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.0.1/burnP3PlusPrometheus-2-0-1.ssimpkg">
+    <onlineLibrary 
+      name="glacier-national-park-example-prometheus" 
+      displayName="Glacier Example (Prometheus)"
+      description="Example library using the Prometheus fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.1/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.1/glacier-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -135,9 +170,23 @@
     <onlineLibrary 
       name="omniscape-example" 
       displayName="Omniscape Example"
-      description="Example library for omniscape that calculates and classifies habitat connectivity in Maryland, USA"
+      description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="omniscapeImpact"
+    version="2.0.0"
+    description="Calculates changes in connectivity categories from a baseline"
+    url="https://github.com/ApexRMS/omniscapeImpact"
+    location="https://github.com/ApexRMS/omniscapeImpact/releases/download/2.0.0/omniscapeImpact-2-0-0.ssimpkg">
+    <onlineLibrary 
+      name="omniscapeImpact-example" 
+      displayName="Omniscape Impact Example"
+      description="Example library for Omniscape Impact that calculates changes in connectivity categories from a baseline in Maryland, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/OmiscapeImpact%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.0.0/omniscape-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -209,6 +258,27 @@
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-maxent-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.0/wisdm-example-maxent.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="wisdm"
+    version="2.1.7"
+    description="Workbench for Integrated Species Distribution Modeling"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdm/releases/download/2.1.7/wisdm-2-1-7.ssimpkg">
+    <onlineLibrary 
+      name="wisdm-example" 
+      displayName="WISDM Example"
+      description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-example.png">
+    </onlineLibrary>
+    <onlineLibrary 
+      name="wisdm-maxent-example" 
+      displayName="WISDM - Maxent Example"
+      description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-example-maxent.png">
     </onlineLibrary>
   </package>
   <package
