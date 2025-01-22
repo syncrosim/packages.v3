@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="wisdm"
-  version="2.1.7"
+  version="2.1.11"
   description="Workbench for Integrated Species Distribution Modeling"
   url="https://apexrms.github.io/wisdm/"
-  location="https://github.com/ApexRMS/wisdm/releases/download/2.1.7/wisdm-2-1-7.ssimpkg">
+  location="https://github.com/ApexRMS/wisdm/releases/download/2.1.11/wisdm-2-1-11.ssimpkg">
 
   <onlineLibrary 
     name="wisdm-example" 
     displayName="WISDM Example"
     description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-example.ssimbak"
-    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-example.png">
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.11/wisdm-example.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.11/wisdm-example.png">
   </onlineLibrary>
 
   <onlineLibrary 
     name="wisdm-maxent-example" 
     displayName="WISDM - Maxent Example"
     description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-maxent-example.ssimbak"
-    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.7/wisdm-example-maxent.png">
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.11/wisdm-maxent-example.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.11/wisdm-example-maxent.png">
   </onlineLibrary>
 
 </package>
