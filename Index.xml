@@ -29,7 +29,7 @@
     </onlineLibrary>
   </package>
   <package 
-      name="burnP3FireSTARR" 
+      name="burnP3PlusFireSTARR" 
       version="1.0.3"
       description="FireSTARR fire growth model package for BurnP3+"
       url="https://burnp3.github.io/BurnP3Plus/"
