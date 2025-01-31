@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package 
+    name="burnP3PlusFireSTARR" 
+    version="1.0.4"
+    description="FireSTARR fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.0.4/burnP3PlusFireSTARR-1-0-4.ssimpkg">
+
+    <onlineLibrary 
+        name="glacier-national-park-example-firestarr"
+        displayName="Glacier Example (FireSTARR)"
+        description="Example library using the FireSTARR fire growth model in BurnP3+"
+        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.0.4/firestarr-example.ssimbak"
+        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.0.4/glacier-example.png">
+    </onlineLibrary>
+
+</package>
