@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package
+    name="prioritizr"
+    version="2.2.1"
+    description="Systematic conservation planning"
+    url="https://apexrms.github.io/prioritizr"
+    location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.1/prioritizr-2-2-1.ssimpkg">
+</package>
