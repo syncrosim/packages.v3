@@ -32,7 +32,7 @@
 
     <onlineLibrary 
         name="multi-cost" 
-        displayName="Multi-Cost Lake Prioritization (Ontario, Canada)"
+        displayName="Multi-Cost Prioritization (Ontario, Canada)"
         description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
         libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.1/multi-cost.ssimbak"
         imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.1/prioritizr-examples.png">
