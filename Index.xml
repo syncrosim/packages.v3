@@ -169,6 +169,13 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.0.1/helloworld-2-0-1.ssimpkg">
   </package>
   <package
+    name="helloworld"
+    version="2.0.2"
+    description="Example demonstrating how to create a SyncroSim package"
+    url="https://apexrms.github.io/helloworld/"
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.0.2/helloworld-2-0-2.ssimpkg">
+  </package>
+  <package
     name="helloworldPipeline"
     version="2.0.0"
     description="Example demonstrating how to use pipelines with an R model"
@@ -222,6 +229,20 @@
       description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.1/omniscape-icon.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="omniscape"
+    version="2.1.3"
+    description="Omni-directional habitat connectivity based on circuit theory"
+    url="https://apexrms.github.io/omniscape/"
+    location="https://github.com/ApexRMS/omniscape/releases/download/2.1.3/omniscape-2-1-3.ssimpkg">
+    <onlineLibrary 
+      name="omniscape-example" 
+      displayName="Omniscape Example"
+      description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.3/omniscape-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.3/omniscape-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -405,6 +426,27 @@
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.11/wisdm-maxent-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.11/wisdm-example-maxent.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="wisdm"
+    version="2.1.13"
+    description="Workbench for Integrated Species Distribution Modeling"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdm/releases/download/2.1.13/wisdm-2-1-13.ssimpkg">
+    <onlineLibrary 
+      name="wisdm-example" 
+      displayName="WISDM Example"
+      description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.13/wisdm-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.13/wisdm-example.png">
+    </onlineLibrary>
+    <onlineLibrary 
+      name="wisdm-maxent-example" 
+      displayName="WISDM - Maxent Example"
+      description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.13/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.1.13/wisdm-example-maxent.png">
     </onlineLibrary>
   </package>
   <package
