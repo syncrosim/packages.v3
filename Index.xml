@@ -22,6 +22,13 @@
     location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.1.1/burnP3Plus-2-1-1.ssimpkg" >
   </package>
   <package
+    name="burnP3Plus" 
+    version="2.2.0" 
+    description="Burn-P3+ package for burn probability modeling" 
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.2.0/burnP3Plus-2-2-0.ssimpkg" >
+  </package>
+  <package
     name="burnP3PlusCell2Fire"
     version="2.0.0"
     description="Cell2Fire fire growth model package for BurnP3+"
@@ -47,6 +54,20 @@
       description="Example library using the Cell2Fire fire growth model in BurnP3+"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.0.2/Cell2Fire%20Example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.0.2/cell2fire-example.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="burnP3PlusCell2Fire"
+    version="2.1.0"
+    description="Cell2Fire fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.1.0/burnP3PlusCell2Fire-2-1-0.ssimpkg">
+    <onlineLibrary 
+      name="burnP3PlusCell2Fire-example" 
+      displayName="Cell2Fire Example"
+      description="Example library using the Cell2Fire fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.1.0/Cell2Fire%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.1.0/cell2fire-example.png">
     </onlineLibrary>
   </package>
   <package 
@@ -91,6 +112,20 @@
           imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.0.3/glacier-example.png">
       </onlineLibrary>
   </package>
+  <package 
+      name="burnP3PlusFireSTARR" 
+      version="1.1.0"
+      description="FireSTARR fire growth model package for BurnP3+"
+      url="https://burnp3.github.io/BurnP3Plus/"
+      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.1.0/burnP3PlusFireSTARR-1-1-0.ssimpkg">
+      <onlineLibrary 
+          name="glacier-national-park-example-firestarr"
+          displayName="Glacier Example (FireSTARR)"
+          description="Example library using the FireSTARR fire growth model in BurnP3+"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.1.0/firestarr-example.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.1.0/glacier-example.png">
+      </onlineLibrary>
+  </package>
   <package
     name="burnP3PlusPrometheus"
     version="2.0.0"
@@ -117,6 +152,20 @@
       description="Example library using the Prometheus fire growth model in BurnP3+"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.1/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.0.1/glacier-example.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="burnP3PlusPrometheus"
+    version="2.1.0"
+    description="Prometheus fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.1.0/burnP3PlusPrometheus-2-1-0.ssimpkg">
+    <onlineLibrary 
+      name="glacier-national-park-example-prometheus" 
+      displayName="Glacier Example (Prometheus)"
+      description="Example library using the Prometheus fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.1.0/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.1.0/glacier-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -149,10 +198,10 @@
   </package>
   <package
     name="ecoClassify"
-    version="1.0.2"
+    version="1.0.3"
     description="ecoClassify package for image classification"
     url="https://apexrms.github.io/ecoClassify/"
-    location="https://github.com/ApexRMS/ecoClassify/releases/download/v1.0.2/ecoClassify-1-0-2.ssimpkg">
+    location="https://github.com/ApexRMS/ecoClassify/releases/download/v1.0.3/ecoClassify-1-0-3.ssimpkg">
   </package>
   <package
     name="helloworld"
