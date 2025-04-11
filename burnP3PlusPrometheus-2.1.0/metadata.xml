@@ -4,7 +4,7 @@
   version="2.1.0"
   description="Prometheus fire growth model package for BurnP3+"
   url="https://burnp3.github.io/BurnP3Plus/"
-  location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.1.0/burnP3PlusPrometheus-2-0-1.ssimpkg">
+  location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.1.0/burnP3PlusPrometheus-2-1-0.ssimpkg">
 
   <onlineLibrary 
     name="glacier-national-park-example-prometheus" 
