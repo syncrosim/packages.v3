@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="helloworld"
+  version="2.0.2"
+  description="Example demonstrating how to create a SyncroSim package"
+  url="https://apexrms.github.io/helloworld/"
+  location="https://github.com/ApexRMS/helloworld/releases/download/2.0.2/helloworld-2-0-2.ssimpkg">
+</package>
