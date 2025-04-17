@@ -268,10 +268,10 @@
   </package>
   <package
   	name="stsim"
-  	version="4.3.7"
+  	version="4.3.8"
   	description="The ST-Sim state-and-transition simulation model"
   	url="https://docs.stsim.net/"
-  	location="https://github.com/ApexRMS/stsim/releases/download/4.3.7/stsim-4-3-7.ssimpkg">
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.3.8/stsim-4-3-8.ssimpkg">
   	<onlineLibrary 
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
