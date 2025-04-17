@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="omniscape"
+  version="2.2.0"
+  description="Omni-directional habitat connectivity based on circuit theory"
+  url="https://apexrms.github.io/omniscape/"
+  location="https://github.com/ApexRMS/omniscape/releases/download/2.2.0/omniscape-2-2-0.ssimpkg">
+
+  <onlineLibrary 
+    name="omniscape-example" 
+    displayName="Omniscape Example"
+    description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-example.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-icon.png">
+  </onlineLibrary>
+
+</package>
