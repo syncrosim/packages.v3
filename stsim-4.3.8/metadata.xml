@@ -10,16 +10,16 @@
 		name="non-spatial-example" 
 		displayName="Non-Spatial Example"
 		description="Example library using a non-spatial state-and-transition simulation model"
-		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/non-spatial-example.ssimbak"
-		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/non-spatial-example.png">
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/non-spatial-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/non-spatial-example.png">
 	</onlineLibrary>
 
 	<onlineLibrary 
 		name="spatial-example" 
 		displayName="Spatial Example"
 		description="Example library using a spatial state-and-transition simulation model"
-		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/spatial-example.ssimbak"
-		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.5/spatial-example.png">
+		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/spatial-example.ssimbak"
+		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/spatial-example.png">
 	</onlineLibrary>
 
 </package>
