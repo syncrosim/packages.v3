@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="wisdmStsimConnector"
+  version="1.2.0"
+  description="Connector package between WISDM and ST-Sim"
+  url="https://apexrms.github.io/wisdm/"
+  location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.2.0/wisdmStsimConnector-1-2-0.ssimpkg">
+</package>

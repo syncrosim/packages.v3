@@ -29,6 +29,13 @@
     location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.2.0/burnP3Plus-2-2-0.ssimpkg" >
   </package>
   <package
+    name="burnP3Plus" 
+    version="2.3.0" 
+    description="Burn-P3+ package for burn probability modeling" 
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.3.0/burnP3Plus-2-3-0.ssimpkg" >
+  </package>
+  <package
     name="burnP3PlusCell2Fire"
     version="2.0.0"
     description="Cell2Fire fire growth model package for BurnP3+"
@@ -68,6 +75,20 @@
       description="Example library using the Cell2Fire fire growth model in BurnP3+"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.1.0/Cell2Fire%20Example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.1.0/cell2fire-example.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="burnP3PlusCell2Fire"
+    version="2.2.0"
+    description="Cell2Fire fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.2.0/burnP3PlusCell2Fire-2-2-0.ssimpkg">
+    <onlineLibrary 
+      name="burnP3PlusCell2Fire-example" 
+      displayName="Cell2Fire Example"
+      description="Example library using the Cell2Fire fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.2.0/Cell2Fire%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.2.0/cell2fire-example.png">
     </onlineLibrary>
   </package>
   <package 
@@ -126,6 +147,20 @@
           imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.1.0/glacier-example.png">
       </onlineLibrary>
   </package>
+  <package 
+      name="burnP3PlusFireSTARR" 
+      version="1.2.0"
+      description="FireSTARR fire growth model package for BurnP3+"
+      url="https://burnp3.github.io/BurnP3Plus/"
+      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.2.0/burnP3PlusFireSTARR-1-2-0.ssimpkg">
+      <onlineLibrary 
+          name="glacier-national-park-example-firestarr"
+          displayName="Glacier Example (FireSTARR)"
+          description="Example library using the FireSTARR fire growth model in BurnP3+"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
+      </onlineLibrary>
+  </package>
   <package
     name="burnP3PlusPrometheus"
     version="2.0.0"
@@ -169,6 +204,20 @@
     </onlineLibrary>
   </package>
   <package
+    name="burnP3PlusPrometheus"
+    version="2.2.0"
+    description="Prometheus fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.2.0/burnP3PlusPrometheus-2-2-0.ssimpkg">
+    <onlineLibrary 
+      name="glacier-national-park-example-prometheus" 
+      displayName="Glacier Example (Prometheus)"
+      description="Example library using the Prometheus fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.2.0/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.2.0/glacier-example.png">
+    </onlineLibrary>
+  </package>
+  <package
     name="demosales"
     version="2.0.0"
     description="Demo Sales SyncroSim Package"
@@ -180,6 +229,20 @@
       description="Example library that demonstrates the basics of SyncroSim."
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.0.0/Demo%20Sales%20-%20Basic.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.0.0/demosales-basic.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="demosales"
+    version="2.1.0"
+    description="Demo Sales SyncroSim Package"
+    url="https://apexrms.github.io/demosales/"
+    location="https://github.com/ApexRMS/demosales/releases/download/2.1.0/demosales-2-1-0.ssimpkg">
+    <onlineLibrary 
+      name="demosales-example" 
+      displayName="Demo Sales - Basic"
+      description="Example library that demonstrates the basics of SyncroSim."
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.1.0/Demo%20Sales%20-%20Basic.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.1.0/demosales-basic.png">
     </onlineLibrary>
   </package>
   <package
@@ -197,11 +260,32 @@
   	</onlineLibrary>
   </package>
   <package
+    name="dgsim"
+    version="3.1.0"
+    description="Simulates demographics of wildlife populations"
+    url="https://apexrms.github.io/dgsim/"
+    location="https://github.com/ApexRMS/dgsim/releases/download/3.1.0/dgsim-3-1-0.ssimpkg">
+  	<onlineLibrary
+  		name="simple-population-model"
+  		displayName="Simple Pop. Model"
+  		description="Example library for DG-Sim demonstrating a simple population model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.1.0/Simple%20Population%20Model%20Example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.1.0/simple-population-model.png">
+  	</onlineLibrary>
+  </package>
+  <package
     name="ecoClassify"
     version="1.0.3"
     description="ecoClassify package for image classification"
     url="https://apexrms.github.io/ecoClassify/"
     location="https://github.com/ApexRMS/ecoClassify/releases/download/v1.0.3/ecoClassify-1-0-3.ssimpkg">
+  </package>
+  <package
+    name="ecoClassify"
+    version="1.1.0"
+    description="ecoClassify package for image classification"
+    url="https://apexrms.github.io/ecoClassify/"
+    location="https://github.com/ApexRMS/ecoClassify/releases/download/v1.1.0/ecoClassify-1-1-0.ssimpkg">
   </package>
   <package
     name="helloworld"
@@ -219,10 +303,10 @@
   </package>
   <package
     name="helloworld"
-    version="2.0.2"
+    version="2.1.0"
     description="Example demonstrating how to create a SyncroSim package"
     url="https://apexrms.github.io/helloworld/"
-    location="https://github.com/ApexRMS/helloworld/releases/download/2.0.2/helloworld-2-0-2.ssimpkg">
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.1.0/helloworld-2-1-0.ssimpkg">
   </package>
   <package
     name="helloworldPipeline"
@@ -230,6 +314,13 @@
     description="Example demonstrating how to use pipelines with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.0.0/helloworldPipeline-2-0-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldPipeline"
+    version="2.1.0"
+    description="Example demonstrating how to use pipelines with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.0/helloworldPipeline-2-1-0.ssimpkg">
   </package>
   <package
     name="helloworldSpatial"
@@ -246,11 +337,32 @@
     </onlineLibrary>
   </package>
   <package
+    name="helloworldSpatial"
+    version="2.1.0"
+    description="Example demonstrating how to use spatial data with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldSpatial/releases/download/2.1.0/helloworldSpatial-2-1-0.ssimpkg">
+    <onlineLibrary 
+      name="helloworldSpatial-example" 
+      displayName="Helloworld Example"
+      description="Example library demonstrating the use of spatial data with an R model"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
+    </onlineLibrary>
+  </package>
+  <package
     name="helloworldTime"
     version="2.0.0"
     description="Example demonstrating how to use timesteps with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldTime/releases/download/2.0.0/helloworldTime-2-0-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldTime"
+    version="2.1.0"
+    description="Example demonstrating how to use timesteps with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.0/helloworldTime-2-1-0.ssimpkg">
   </package>
   <package
     name="helloworldTimePy"
@@ -265,6 +377,13 @@
     description="Example demonstrating how to use iterations with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.0.1/helloworldUncertainty-2-0-1.ssimpkg">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="2.1.0"
+    description="Example demonstrating how to use iterations with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.0/helloworldUncertainty-2-1-0.ssimpkg">
   </package>
   <package
     name="omniscape"
@@ -282,16 +401,16 @@
   </package>
   <package
     name="omniscape"
-    version="2.1.3"
+    version="2.2.0"
     description="Omni-directional habitat connectivity based on circuit theory"
     url="https://apexrms.github.io/omniscape/"
-    location="https://github.com/ApexRMS/omniscape/releases/download/2.1.3/omniscape-2-1-3.ssimpkg">
+    location="https://github.com/ApexRMS/omniscape/releases/download/2.2.0/omniscape-2-2-0.ssimpkg">
     <onlineLibrary 
       name="omniscape-example" 
       displayName="Omniscape Example"
       description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
-      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.3/omniscape-example.ssimbak"
-      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.1.3/omniscape-icon.png">
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -341,6 +460,41 @@
           description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
           libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.1/multi-cost.ssimbak"
           imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.1/prioritizr-examples.png">
+      </onlineLibrary>
+  </package>
+  <package
+      name="prioritizr"
+      version="2.2.2"
+      description="Systematic conservation planning"
+      url="https://apexrms.github.io/prioritizr"
+      location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.2/prioritizr-2-2-2.ssimpkg">
+      <onlineLibrary 
+          name="spatial-formulation" 
+          displayName="Spatial Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-examples.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="tabular-formulation" 
+          displayName="Tabular Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-examples.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="climate-refugia" 
+          displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
+          description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-examples.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="multi-cost" 
+          displayName="Multi-Cost Prioritization (Ontario, Canada)"
+          description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-examples.png">
       </onlineLibrary>
   </package>
   <package
@@ -415,6 +569,14 @@
     builtFor="stsim_4.0.0">
   </package>
   <package
+    name="stsimecodep"
+    version="4.1.0"
+    description="Calculates TNC's unified ecological departure from reference conditions in ST-Sim"
+    url="https://docs.stsim.net/"
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/4.1.0/stsimecodep-4-1-0.ssimpkg"
+    builtFor="stsim_4.3.8">
+  </package>
+  <package
     name="wisdm"
     version="2.1.0"
     description="Workbench for Integrated Species Distribution Modeling"
@@ -479,7 +641,7 @@
   </package>
   <package
     name="wisdm"
-    version="2.1.13"
+    version="2.2.0"
     description="Workbench for Integrated Species Distribution Modeling"
     url="https://apexrms.github.io/wisdm/"
     location="https://github.com/ApexRMS/wisdm/releases/download/2.1.13/wisdm-2-1-13.ssimpkg">
@@ -511,5 +673,12 @@
     description="Connector package between WISDM and ST-Sim"
     url="https://apexrms.github.io/wisdm/"
     location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.0.1/wisdmStsimConnector-1-0-1.ssimpkg">
+  </package>
+  <package
+    name="wisdmStsimConnector"
+    version="1.2.0"
+    description="Connector package between WISDM and ST-Sim"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.2.0/wisdmStsimConnector-1-2-0.ssimpkg">
   </package>
 </packages>
