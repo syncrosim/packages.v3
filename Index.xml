@@ -99,6 +99,41 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.1.0/helloworld-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworldPipeline"
+    version="2.1.0"
+    description="Example demonstrating how to use pipelines with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.0/helloworldPipeline-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldSpatial"
+    version="2.1.0"
+    description="Example demonstrating how to use spatial data with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldSpatial/releases/download/2.1.0/helloworldSpatial-2-1-0.ssimpkg">
+    <onlineLibrary 
+      name="helloworldSpatial-example" 
+      displayName="Helloworld Example"
+      description="Example library demonstrating the use of spatial data with an R model"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="helloworldTime"
+    version="2.1.0"
+    description="Example demonstrating how to use timesteps with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.0/helloworldTime-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="2.1.0"
+    description="Example demonstrating how to use iterations with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.0/helloworldUncertainty-2-1-0.ssimpkg">
+  </package>
+  <package
     name="omniscape"
     version="2.2.0"
     description="Omni-directional habitat connectivity based on circuit theory"
@@ -195,5 +230,12 @@
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-maxent-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-example-maxent.png">
     </onlineLibrary>
+  </package>
+  <package
+    name="wisdmStsimConnector"
+    version="1.2.0"
+    description="Connector package between WISDM and ST-Sim"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdmStsimConnector/releases/download/1.2.0/wisdmStsimConnector-1-2-0.ssimpkg">
   </package>
 </packages>
