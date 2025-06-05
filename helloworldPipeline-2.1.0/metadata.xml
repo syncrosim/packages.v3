@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="helloworldPipeline"
+  version="2.1.0"
+  description="Example demonstrating how to use pipelines with an R model"
+  url="https://apexrms.github.io/helloworldEnhanced/"
+  location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.0/helloworldPipeline-2-1-0.ssimpkg">
+</package>

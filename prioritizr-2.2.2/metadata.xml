@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package
+    name="prioritizr"
+    version="2.2.2"
+    description="Systematic conservation planning"
+    url="https://apexrms.github.io/prioritizr"
+    location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.2/prioritizr-2-2-2.ssimpkg">
+
+    <onlineLibrary 
+        name="spatial-formulation" 
+        displayName="Spatial Formulation Example"
+        description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
+        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
+        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+    </onlineLibrary>
+
+    <onlineLibrary 
+        name="tabular-formulation" 
+        displayName="Tabular Formulation Example"
+        description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
+        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
+        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+    </onlineLibrary>
+
+    <onlineLibrary 
+        name="climate-refugia" 
+        displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
+        description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
+        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
+        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+    </onlineLibrary>
+
+    <onlineLibrary 
+        name="multi-cost" 
+        displayName="Multi-Cost Prioritization (Ontario, Canada)"
+        description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
+        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
+        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+    </onlineLibrary>
+    
+</package>

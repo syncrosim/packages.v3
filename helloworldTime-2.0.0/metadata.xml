@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package
-  name="helloworldTime"
-  version="2.0.0"
-  description="Example demonstrating how to use timesteps with an R model"
-  url="https://apexrms.github.io/helloworldEnhanced/"
-  location="https://github.com/ApexRMS/helloworldTime/releases/download/2.0.0/helloworldTime-2-0-0.ssimpkg">
-</package>

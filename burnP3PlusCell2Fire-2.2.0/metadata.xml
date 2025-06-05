@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="burnP3PlusCell2Fire"
+  version="2.2.0"
+  description="Cell2Fire fire growth model package for BurnP3+"
+  url="https://burnp3.github.io/BurnP3Plus/"
+  location="https://github.com/BurnP3/BurnP3PlusCell2Fire/releases/download/2.2.0/burnP3PlusCell2Fire-2-2-0.ssimpkg">
+
+  <onlineLibrary 
+    name="burnP3PlusCell2Fire-example" 
+    displayName="Cell2Fire Example"
+    description="Example library using the Cell2Fire fire growth model in BurnP3+"
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.2.0/Cell2Fire%20Example.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.2.0/cell2fire-example.png">
+  </onlineLibrary>
+
+</package>
