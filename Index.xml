@@ -90,8 +90,6 @@
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/EcoClassify%20Example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/spatial-example.png">
     </onlineLibrary>
-<<<<<<< HEAD
-=======
   </package>
   <package
     name="ecoClassify"
@@ -106,7 +104,6 @@
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.2.0/EcoClassify%20Example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.2.0/spatial-example.png">
     </onlineLibrary>
->>>>>>> 1cd82b2c7dfdf9113e8ae2a80d33dd0f4e77ef1f
   </package>
   <package
     name="helloworld"
