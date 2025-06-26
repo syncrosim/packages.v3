@@ -22,18 +22,18 @@
     </onlineLibrary>
   </package>
   <package 
-    name="burnP3PlusFireSTARR" 
-    version="1.2.0"
-    description="FireSTARR fire growth model package for BurnP3+"
-    url="https://burnp3.github.io/BurnP3Plus/"
-    location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.2.0/burnP3PlusFireSTARR-1-2-0.ssimpkg">
-    <onlineLibrary 
-      name="glacier-national-park-example-firestarr"
-      displayName="Glacier Example (FireSTARR)"
-      description="Example library using the FireSTARR fire growth model in BurnP3+"
-      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
-      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
-    </onlineLibrary>
+      name="burnP3PlusFireSTARR" 
+      version="1.2.0"
+      description="FireSTARR fire growth model package for BurnP3+"
+      url="https://burnp3.github.io/BurnP3Plus/"
+      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.2.0/burnP3PlusFireSTARR-1-2-0.ssimpkg">
+      <onlineLibrary 
+          name="glacier-national-park-example-firestarr"
+          displayName="Glacier Example (FireSTARR)"
+          description="Example library using the FireSTARR fire growth model in BurnP3+"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
+      </onlineLibrary>
   </package>
   <package
     name="burnP3PlusPrometheus"
@@ -89,7 +89,7 @@
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/EcoClassify%20Example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/spatial-example.png">
-  </onlineLibrary>
+    </onlineLibrary>
   </package>
   <package
     name="helloworld"
@@ -113,39 +113,39 @@
     </onlineLibrary>
   </package>
   <package
-    name="prioritizr"
-    version="2.2.2"
-    description="Systematic conservation planning"
-    url="https://apexrms.github.io/prioritizr"
-    location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.2/prioritizr-2-2-2.ssimpkg">
-    <onlineLibrary 
-        name="spatial-formulation" 
-        displayName="Spatial Formulation Example"
-        description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
-    <onlineLibrary 
-        name="tabular-formulation" 
-        displayName="Tabular Formulation Example"
-        description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
-    <onlineLibrary 
-        name="climate-refugia" 
-        displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
-        description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
-    <onlineLibrary 
-        name="multi-cost" 
-        displayName="Multi-Cost Prioritization (Ontario, Canada)"
-        description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
+      name="prioritizr"
+      version="2.2.2"
+      description="Systematic conservation planning"
+      url="https://apexrms.github.io/prioritizr"
+      location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.2/prioritizr-2-2-2.ssimpkg">
+      <onlineLibrary 
+          name="spatial-formulation" 
+          displayName="Spatial Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="tabular-formulation" 
+          displayName="Tabular Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="climate-refugia" 
+          displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
+          description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="multi-cost" 
+          displayName="Multi-Cost Prioritization (Ontario, Canada)"
+          description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
   </package>
   <package
   	name="stsim"
@@ -169,11 +169,33 @@
   	</onlineLibrary>
   </package>
   <package
+  	name="stsim"
+  	version="4.5.0"
+  	description="The ST-Sim state-and-transition simulation model"
+  	url="https://docs.stsim.net/"
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.5.0/stsim-4-5-0.ssimpkg">
+  	<onlineLibrary 
+  		name="non-spatial-example" 
+  		displayName="Non-Spatial Example"
+  		description="Example library using a non-spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
+  	</onlineLibrary>
+  	<onlineLibrary 
+  		name="spatial-example" 
+  		displayName="Spatial Example"
+  		description="Example library using a spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
+  	</onlineLibrary>
+  </package>
+  <package
     name="stsimecodep"
     version="4.1.0"
     description="Calculates TNC's unified ecological departure from reference conditions in ST-Sim"
     url="https://docs.stsim.net/"
-    location="https://github.com/ApexRMS/stsimecodep/releases/download/4.1.0/stsimecodep-4-1-0.ssimpkg">
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/4.1.0/stsimecodep-4-1-0.ssimpkg"
+    builtFor="stsim_4.3.8">
   </package>
   <package
     name="wisdm"
