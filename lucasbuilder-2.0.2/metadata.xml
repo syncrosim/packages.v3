@@ -5,4 +5,12 @@
   	description="Integrates the Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model."
   	url="https://github.com/ApexRMS/lucasbuilder/releases/download/2.0.2/lucasbuilder-2-0-2.ssimpkg"
       location="">
+	
+	<onlineLibrary 
+        name="lucasbuilder-conus" 
+        displayName="LUCAS Builder - CONUS"
+        description="Template library for the LUCAS Builder package with forest carbon simulations for CONUS"
+        libraryLocation="https://s3.dualstack.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.2/lucasbuilder-conus.ssimbak"
+        imageLocation="https://s3.dualstack.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.2/lucasbuilder-sticker.png">
+    </onlineLibrary>
 </package>
