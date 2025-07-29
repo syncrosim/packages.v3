@@ -22,18 +22,18 @@
     </onlineLibrary>
   </package>
   <package 
-    name="burnP3PlusFireSTARR" 
-    version="1.2.0"
-    description="FireSTARR fire growth model package for BurnP3+"
-    url="https://burnp3.github.io/BurnP3Plus/"
-    location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.2.0/burnP3PlusFireSTARR-1-2-0.ssimpkg">
-    <onlineLibrary 
-      name="glacier-national-park-example-firestarr"
-      displayName="Glacier Example (FireSTARR)"
-      description="Example library using the FireSTARR fire growth model in BurnP3+"
-      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
-      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
-    </onlineLibrary>
+      name="burnP3PlusFireSTARR" 
+      version="1.2.0"
+      description="FireSTARR fire growth model package for BurnP3+"
+      url="https://burnp3.github.io/BurnP3Plus/"
+      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.2.0/burnP3PlusFireSTARR-1-2-0.ssimpkg">
+      <onlineLibrary 
+          name="glacier-national-park-example-firestarr"
+          displayName="Glacier Example (FireSTARR)"
+          description="Example library using the FireSTARR fire growth model in BurnP3+"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
+      </onlineLibrary>
   </package>
   <package
     name="burnP3PlusPrometheus"
@@ -134,6 +134,19 @@
     location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.0/helloworldUncertainty-2-1-0.ssimpkg">
   </package>
   <package
+    	name="lucasbuilder"
+   	  version="2.0.2"
+    	description="Integrates the Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model."
+      location="https://github.com/ApexRMS/lucasbuilder/releases/download/2.0.2/lucasbuilder-2-0-2.ssimpkg">
+  	<onlineLibrary 
+          name="lucasbuilder-conus" 
+          displayName="LUCAS Builder - CONUS"
+          description="Template library for the LUCAS Builder package with forest carbon simulations for CONUS"
+          libraryLocation="https://s3.dualstack.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.2/lucasbuilder-conus.ssimbak"
+          imageLocation="https://s3.dualstack.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.2/lucasbuilder-sticker.png">
+      </onlineLibrary>
+  </package>
+  <package
     name="omniscape"
     version="2.2.0"
     description="Omni-directional habitat connectivity based on circuit theory"
@@ -148,39 +161,39 @@
     </onlineLibrary>
   </package>
   <package
-    name="prioritizr"
-    version="2.2.2"
-    description="Systematic conservation planning"
-    url="https://apexrms.github.io/prioritizr"
-    location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.2/prioritizr-2-2-2.ssimpkg">
-    <onlineLibrary 
-        name="spatial-formulation" 
-        displayName="Spatial Formulation Example"
-        description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
-    <onlineLibrary 
-        name="tabular-formulation" 
-        displayName="Tabular Formulation Example"
-        description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
-    <onlineLibrary 
-        name="climate-refugia" 
-        displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
-        description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
-    <onlineLibrary 
-        name="multi-cost" 
-        displayName="Multi-Cost Prioritization (Ontario, Canada)"
-        description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
-        libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
-        imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
-    </onlineLibrary>
+      name="prioritizr"
+      version="2.2.2"
+      description="Systematic conservation planning"
+      url="https://apexrms.github.io/prioritizr"
+      location="https://github.com/ApexRMS/prioritizr/releases/download/2.2.2/prioritizr-2-2-2.ssimpkg">
+      <onlineLibrary 
+          name="spatial-formulation" 
+          displayName="Spatial Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="tabular-formulation" 
+          displayName="Tabular Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="climate-refugia" 
+          displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
+          description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="multi-cost" 
+          displayName="Multi-Cost Prioritization (Ontario, Canada)"
+          description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
   </package>
   <package
   	name="stsim"
@@ -201,6 +214,27 @@
   		description="Example library using a spatial state-and-transition simulation model"
   		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/spatial-example.ssimbak"
   		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/spatial-example.png">
+  	</onlineLibrary>
+  </package>
+  <package
+  	name="stsim"
+  	version="4.5.0"
+  	description="The ST-Sim state-and-transition simulation model"
+  	url="https://docs.stsim.net/"
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.5.0/stsim-4-5-0.ssimpkg">
+  	<onlineLibrary 
+  		name="non-spatial-example" 
+  		displayName="Non-Spatial Example"
+  		description="Example library using a non-spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
+  	</onlineLibrary>
+  	<onlineLibrary 
+  		name="spatial-example" 
+  		displayName="Spatial Example"
+  		description="Example library using a spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -229,6 +263,27 @@
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-maxent-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-example-maxent.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="wisdm"
+    version="2.3.0"
+    description="Workbench for Integrated Species Distribution Modeling"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdm/releases/download/2.3.0/wisdm-2-3-0.ssimpkg">
+    <onlineLibrary 
+      name="wisdm-example" 
+      displayName="WISDM Example"
+      description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example.png">
+    </onlineLibrary>
+    <onlineLibrary 
+      name="wisdm-maxent-example" 
+      displayName="WISDM - Maxent Example"
+      description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example-maxent.png">
     </onlineLibrary>
   </package>
   <package
