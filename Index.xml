@@ -280,6 +280,27 @@
   	</onlineLibrary>
   </package>
   <package
+  	name="stsim"
+  	version="4.5.1"
+  	description="The ST-Sim state-and-transition simulation model"
+  	url="https://docs.stsim.net/"
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.5.1/stsim-4-5-1.ssimpkg">
+  	<onlineLibrary 
+  		name="non-spatial-example" 
+  		displayName="Non-Spatial Example"
+  		description="Example library using a non-spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
+  	</onlineLibrary>
+  	<onlineLibrary 
+  		name="spatial-example" 
+  		displayName="Spatial Example"
+  		description="Example library using a spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
+  	</onlineLibrary>
+  </package>
+  <package
     name="stsimecodep"
     version="4.1.0"
     description="Calculates TNC's unified ecological departure from reference conditions in ST-Sim"
