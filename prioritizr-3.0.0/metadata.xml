@@ -4,7 +4,7 @@
     version="3.0.0"
     description="Systematic conservation planning"
     url="https://apexrms.github.io/prioritizr"
-    location="https://github.com/ApexRMS/prioritizr/releases/download/3.0.0/prioritizr-2-2-2.ssimpkg">
+    location="https://github.com/ApexRMS/prioritizr/releases/download/3.0.0/prioritizr-3-0-0.ssimpkg">
 
     <onlineLibrary 
         name="spatial-formulation" 
