@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <packages>
   <package
     name="burnP3Plus" 
@@ -169,11 +169,25 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.1.0/helloworld-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworld"
+    version="2.1.1"
+    description="Example demonstrating how to create a SyncroSim package"
+    url="https://apexrms.github.io/helloworld/"
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.1.1/helloworld-2-1-1.ssimpkg">
+  </package>
+  <package
     name="helloworldPipeline"
     version="2.1.0"
     description="Example demonstrating how to use pipelines with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.0/helloworldPipeline-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldPipeline"
+    version="2.1.1"
+    description="Example demonstrating how to use pipelines with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.1/helloworldPipeline-2-1-1.ssimpkg">
   </package>
   <package
     name="helloworldSpatial"
@@ -197,11 +211,46 @@
     location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.0/helloworldTime-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworldTime"
+    version="2.1.1"
+    description="Example demonstrating how to use timesteps with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.1/helloworldTime-2-1-1.ssimpkg">
+  </package>
+  <package
     name="helloworldUncertainty"
     version="2.1.0"
     description="Example demonstrating how to use iterations with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.0/helloworldUncertainty-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="2.1.1"
+    description="Example demonstrating how to use iterations with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.1/helloworldUncertainty-2-1-1.ssimpkg">
+  </package>
+  <package
+    name="landfirevegmodels"
+    version="2.0.0"
+    description="LANDFIRE vegetation models"
+    url="https://apexrms.github.io/landfirevegmodels/"
+    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/2.0.0/landfirevegmodels-2-0-0.ssimpkg">
+    <onlineLibrary 
+  		name="current-example-models" 
+  		displayName="Current Example Models"
+  		description="LANDFIRE example state-and-transition simulation models representing current conditions for selected Biophysical Settings."
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.png">
+  	</onlineLibrary>
+    <onlineLibrary 
+  		name="reference-condition-models" 
+  		displayName="Reference Condition Models"
+  		description="LANDFIRE reference condtion state-and-transition simulation models developed to simulate the US historic range of variability (HRV) in landscape vegetation composition and disturbance regimes."
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.png">
+  	</onlineLibrary>
   </package>
   <package
     	name="lucasbuilder"

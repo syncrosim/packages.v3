@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package
+  name="landfirevegmodels"
+  version="2.0.0"
+  description="LANDFIRE vegetation models"
+  url="https://apexrms.github.io/landfirevegmodels/"
+  location="https://github.com/ApexRMS/landfirevegmodels/releases/download/2.0.0/landfirevegmodels-2-0-0.ssimpkg">
+  <onlineLibrary 
+    name="current-example-models" 
+    displayName="Current Example Models"
+    description="LANDFIRE example state-and-transition simulation models representing current conditions for selected Biophysical Settings."
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/landfirevegmodels.png">
+  </onlineLibrary>
+  <onlineLibrary 
+    name="reference-condition-models" 
+    displayName="Reference Condition Models"
+    description="LANDFIRE reference condtion state-and-transition simulation models developed to simulate the US historic range of variability (HRV) in landscape vegetation composition and disturbance regimes."
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/landfirevegmodels.png">
+  </onlineLibrary>
+</package>
