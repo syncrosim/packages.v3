@@ -83,13 +83,13 @@
     description="ecoClassify package for image classification"
     url="https://apexrms.github.io/ecoClassify/"
     location="https://github.com/ApexRMS/ecoClassify/releases/download/v1.1.0/ecoClassify-1-1-0.ssimpkg">
-  	<onlineLibrary
-  		name="ecoclassify-example"
-  		displayName="EcoClassify Example"
-  		description="Example library for EcoClassify demonstrating image classification"
-  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/EcoClassify%20Example.ssimbak"
-  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/ecoclassify-example.png">
-  	</onlineLibrary>
+    <onlineLibrary 
+      name="ecoclassify-example" 
+      displayName="EcoClassify Example"
+      description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/spatial-example.png">
+    </onlineLibrary>
   </package>
   <package
     name="ecoClassify"
@@ -134,6 +134,34 @@
     </onlineLibrary>
   </package>
   <package
+    name="ecoClassify"
+    version="2.3.0"
+    description="ecoClassify package for image classification"
+    url="https://apexrms.github.io/ecoClassify/"
+    location="https://github.com/ApexRMS/ecoClassify/releases/download/v2.3.0/ecoClassify-2-3-0.ssimpkg">
+    <onlineLibrary 
+      name="ecoclassify-example" 
+      displayName="EcoClassify Example"
+      description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.0/spatial-example.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="ecoClassify"
+    version="2.3.1"
+    description="ecoClassify package for image classification"
+    url="https://apexrms.github.io/ecoClassify/"
+    location="https://github.com/ApexRMS/ecoClassify/releases/download/v2.3.1/ecoClassify-2-3-1.ssimpkg">
+    <onlineLibrary 
+      name="ecoclassify-example" 
+      displayName="EcoClassify Example"
+      description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.1/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.1/spatial-example.png">
+    </onlineLibrary>
+  </package>
+  <package
     name="helloworld"
     version="2.1.0"
     description="Example demonstrating how to create a SyncroSim package"
@@ -141,11 +169,25 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.1.0/helloworld-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworld"
+    version="2.1.1"
+    description="Example demonstrating how to create a SyncroSim package"
+    url="https://apexrms.github.io/helloworld/"
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.1.1/helloworld-2-1-1.ssimpkg">
+  </package>
+  <package
     name="helloworldPipeline"
     version="2.1.0"
     description="Example demonstrating how to use pipelines with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.0/helloworldPipeline-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldPipeline"
+    version="2.1.1"
+    description="Example demonstrating how to use pipelines with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.1/helloworldPipeline-2-1-1.ssimpkg">
   </package>
   <package
     name="helloworldSpatial"
@@ -169,11 +211,46 @@
     location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.0/helloworldTime-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworldTime"
+    version="2.1.1"
+    description="Example demonstrating how to use timesteps with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.1/helloworldTime-2-1-1.ssimpkg">
+  </package>
+  <package
     name="helloworldUncertainty"
     version="2.1.0"
     description="Example demonstrating how to use iterations with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.0/helloworldUncertainty-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="2.1.1"
+    description="Example demonstrating how to use iterations with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.1/helloworldUncertainty-2-1-1.ssimpkg">
+  </package>
+  <package
+    name="landfirevegmodels"
+    version="2.0.0"
+    description="LANDFIRE vegetation models"
+    url="https://apexrms.github.io/landfirevegmodels/"
+    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/2.0.0/landfirevegmodels-2-0-0.ssimpkg">
+    <onlineLibrary 
+      name="current-example-models" 
+      displayName="Current Example Models"
+      description="LANDFIRE example state-and-transition simulation models representing current conditions for selected Biophysical Settings."
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.png">
+    </onlineLibrary>
+    <onlineLibrary 
+      name="reference-condition-models" 
+      displayName="Reference Condition Models"
+      description="LANDFIRE reference condition state-and-transition simulation models developed to simulate the US historic range of variability (HRV) in landscape vegetation composition and disturbance regimes."
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.png">
+    </onlineLibrary>
   </package>
   <package
     	name="lucasbuilder"
@@ -235,6 +312,41 @@
           description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
           libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
           imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
+      </onlineLibrary>
+  </package>
+  <package
+      name="prioritizr"
+      version="3.0.0"
+      description="Systematic conservation planning"
+      url="https://apexrms.github.io/prioritizr"
+      location="https://github.com/ApexRMS/prioritizr/releases/download/3.0.0/prioritizr-3-0-0.ssimpkg">
+      <onlineLibrary 
+          name="spatial-formulation" 
+          displayName="Spatial Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/spatial-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="tabular-formulation" 
+          displayName="Tabular Formulation Example"
+          description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/tabular-formulation.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="climate-refugia" 
+          displayName="Climate Refugia Prioritization (FMZ 15, Ontario)"
+          description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/climate-refugia.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
+      </onlineLibrary>
+      <onlineLibrary 
+          name="multi-cost" 
+          displayName="Multi-Cost Prioritization (FMZ 15, Canada)"
+          description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
+          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/multi-cost.ssimbak"
+          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
       </onlineLibrary>
   </package>
   <package
@@ -389,6 +501,27 @@
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-maxent-example.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example-maxent.png">
+    </onlineLibrary>
+  </package>
+  <package
+    name="wisdm"
+    version="2.4.1"
+    description="Workbench for Integrated Species Distribution Modeling"
+    url="https://apexrms.github.io/wisdm/"
+    location="https://github.com/ApexRMS/wisdm/releases/download/2.4.1/wisdm-2-4-1.ssimpkg">
+    <onlineLibrary 
+      name="wisdm-example" 
+      displayName="WISDM Example"
+      description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-example.png">
+    </onlineLibrary>
+    <onlineLibrary 
+      name="wisdm-maxent-example" 
+      displayName="WISDM - Maxent Example"
+      description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-maxent-example.png">
     </onlineLibrary>
   </package>
   <package
