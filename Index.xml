@@ -8,6 +8,13 @@
     location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.3.0/burnP3Plus-2-3-0.ssimpkg" >
   </package>
   <package
+    name="burnP3Plus" 
+    version="2.6.10" 
+    description="Burn-P3+ package for burn probability modeling" 
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.6.10/burnP3Plus-2-6-10a.ssimpkg" >
+  </package>
+  <package
     name="burnP3PlusCell2Fire"
     version="2.2.0"
     description="Cell2Fire fire growth model package for BurnP3+"
@@ -35,6 +42,13 @@
           imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
       </onlineLibrary>
   </package>
+  <package 
+      name="burnP3PlusFireSTARR" 
+      version="1.5.7"
+      description="FireSTARR fire growth model package for BurnP3+"
+      url="https://burnp3.github.io/BurnP3Plus/"
+      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.5.7/burnP3PlusFireSTARR-1-5-7.ssimpkg">
+  </package>
   <package
     name="burnP3PlusPrometheus"
     version="2.2.0"
@@ -48,6 +62,13 @@
       libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.2.0/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
       imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.2.0/glacier-example.png">
     </onlineLibrary>
+  </package>
+  <package
+    name="burnP3PlusPrometheus"
+    version="2.5.5"
+    description="Prometheus fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusPrometheus/releases/download/2.5.5/burnP3PlusPrometheus-2-5-5.ssimpkg">
   </package>
   <package
     name="demosales"
