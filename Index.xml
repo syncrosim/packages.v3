@@ -12,7 +12,7 @@
     version="2.6.11" 
     description="Burn-P3+ package for burn probability modeling" 
     url="https://burnp3.github.io/BurnP3Plus/"
-    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.6.11/burnP3Plus-2-6-11.ssimpkg" >
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/2.6.11/burnP3Plus-2-6-11.ssimpkg" > 
   </package>
   <package
     name="burnP3PlusCell2Fire"
@@ -43,18 +43,18 @@
       </onlineLibrary>
   </package>
   <package 
-      name="burnP3PlusFireSTARR" 
-      version="1.5.7"
-      description="FireSTARR fire growth model package for BurnP3+"
-      url="https://burnp3.github.io/BurnP3Plus/"
-      location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.5.7/burnP3PlusFireSTARR-1-5-7.ssimpkg">
-      <onlineLibrary 
-          name="glacier-national-park-example-firestarr"
-          displayName="Glacier Example (FireSTARR)"
-          description="Example library using the FireSTARR fire growth model in BurnP3+"
-          libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/firestarr-example.ssimbak"
-          imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/glacier-example.png">
-      </onlineLibrary>
+    name="burnP3PlusFireSTARR" 
+    version="1.5.7"
+    description="FireSTARR fire growth model package for BurnP3+"
+    url="https://burnp3.github.io/BurnP3Plus/"
+    location="https://github.com/BurnP3/BurnP3PlusFireSTARR/releases/download/1.5.7/burnP3PlusFireSTARR-1-5-7.ssimpkg">
+    <onlineLibrary 
+      name="glacier-national-park-example-firestarr"
+      displayName="Glacier Example (FireSTARR)"
+      description="Example library using the FireSTARR fire growth model in BurnP3+"
+      libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/firestarr-example.ssimbak"
+      imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/glacier-example.png">
+    </onlineLibrary>
   </package>
   <package
     name="burnP3PlusPrometheus"
@@ -551,6 +551,27 @@
   		description="Example library using a spatial state-and-transition simulation model"
   		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
   		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
+  	</onlineLibrary>
+  </package>
+  <package
+  	name="stsim"
+  	version="4.5.4"
+  	description="The ST-Sim state-and-transition simulation model"
+  	url="https://docs.stsim.net/"
+  	location="https://github.com/ApexRMS/stsim/releases/download/4.5.4/stsim-4-5-4.ssimpkg">
+  	<onlineLibrary 
+  		name="non-spatial-example" 
+  		displayName="Non-Spatial Example"
+  		description="Example library using a non-spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/non-spatial-example.png">
+  	</onlineLibrary>
+  	<onlineLibrary 
+  		name="spatial-example" 
+  		displayName="Spatial Example"
+  		description="Example library using a spatial state-and-transition simulation model"
+  		libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/spatial-example.ssimbak"
+  		imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
