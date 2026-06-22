@@ -10,16 +10,16 @@
     name="wisdm-example" 
     displayName="WISDM Example"
     description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example.ssimbak"
-    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example.png">
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-example.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-example.png">
   </onlineLibrary>
 
   <onlineLibrary 
     name="wisdm-maxent-example" 
     displayName="WISDM - Maxent Example"
     description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-maxent-example.ssimbak"
-    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example-maxent.png">
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-maxent-example.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-example-maxent.png">
   </onlineLibrary>
 
 </package>
