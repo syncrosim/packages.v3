@@ -10,8 +10,8 @@
     name="helloworldSpatial-example" 
     displayName="Helloworld Example"
     description="Example library demonstrating the use of spatial data with an R model"
-    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
-    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
   </onlineLibrary>
 
 </package>

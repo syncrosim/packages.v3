@@ -10,8 +10,8 @@
     name="omniscape-example" 
     displayName="Omniscape Example"
     description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
-    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/omniscape/v2.2.0/omniscape-example.ssimbak"
-    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/omniscape/v2.2.0/omniscape-icon.png">
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-example.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-icon.png">
   </onlineLibrary>
 
 </package>

@@ -24,8 +24,8 @@
       name="burnP3PlusCell2Fire-example" 
       displayName="Cell2Fire Example"
       description="Example library using the Cell2Fire fire growth model in BurnP3+"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusCell2Fire/v2.2.0/Cell2Fire%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusCell2Fire/v2.2.0/cell2fire-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.2.0/Cell2Fire%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusCell2Fire/v2.2.0/cell2fire-example.png">
     </onlineLibrary>
   </package>
   <package 
@@ -38,8 +38,8 @@
           name="glacier-national-park-example-firestarr"
           displayName="Glacier Example (FireSTARR)"
           description="Example library using the FireSTARR fire growth model in BurnP3+"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/firestarr-example.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.2.0/glacier-example.png">
       </onlineLibrary>
   </package>
   <package 
@@ -52,8 +52,8 @@
       name="glacier-national-park-example-firestarr"
       displayName="Glacier Example (FireSTARR)"
       description="Example library using the FireSTARR fire growth model in BurnP3+"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusFireSTARR/v1.5.7/firestarr-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusFireSTARR/v1.5.7/glacier-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/firestarr-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/glacier-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -66,8 +66,8 @@
       name="glacier-national-park-example-prometheus" 
       displayName="Glacier Example (Prometheus)"
       description="Example library using the Prometheus fire growth model in BurnP3+"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusPrometheus/v2.2.0/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusPrometheus/v2.2.0/glacier-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.2.0/Glacier%20National%20Park%20Example%20%28Prometheus%29.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.2.0/glacier-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -80,8 +80,8 @@
       name="glacier-national-park-example-prometheus" 
       displayName="Glacier Example (Prometheus)"
       description="Example library using the Prometheus fire growth model in BurnP3+"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusPrometheus/v2.5.5/prometheus-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusPrometheus/v2.5.5/glacier-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.5.5/prometheus-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.5.5/glacier-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -94,8 +94,8 @@
       name="demosales-example" 
       displayName="Demo Sales - Basic"
       description="Example library that demonstrates the basics of SyncroSim."
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/demosales/v2.1.0/Demo%20Sales%20-%20Basic.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/demosales/v2.1.0/demosales-basic.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.1.0/Demo%20Sales%20-%20Basic.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/demosales/v2.1.0/demosales-basic.png">
     </onlineLibrary>
   </package>
   <package
@@ -108,8 +108,8 @@
   		name="simple-population-model"
   		displayName="Simple Pop. Model"
   		description="Example library for DG-Sim demonstrating a simple population model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/dgsim/v3.1.0/Simple%20Population%20Model%20Example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/dgsim/v3.1.0/simple-population-model.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.1.0/Simple%20Population%20Model%20Example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.1.0/simple-population-model.png">
   	</onlineLibrary>
   </package>
   <package
@@ -122,8 +122,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v1.1.0/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v1.1.0/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.1.0/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -136,8 +136,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v1.2.0/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v1.2.0/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.2.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v1.2.0/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -150,8 +150,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.1.2/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.1.2/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.1.2/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.1.2/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -164,8 +164,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.2.0/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.2.0/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.2.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.2.0/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -178,8 +178,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.3.0/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.3.0/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.0/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -192,8 +192,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.3.1/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.3.1/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.1/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.1/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -206,8 +206,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.3.2/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.3.2/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.2/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.3.2/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -220,8 +220,8 @@
       name="ecoclassify-example" 
       displayName="EcoClassify Example"
       description="Example library for the EcoClassify SyncroSim package showcases how to develop an image classifier for snow cover"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.4.0/EcoClassify%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/ecoclassify/v2.4.0/spatial-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.4.0/EcoClassify%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/ecoclassify/v2.4.0/spatial-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -262,8 +262,8 @@
       name="helloworldSpatial-example" 
       displayName="Helloworld Example"
       description="Example library demonstrating the use of spatial data with an R model"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -304,22 +304,22 @@
       name="current-example-models" 
       displayName="Current Example Models"
       description="LANDFIRE example state-and-transition simulation models representing current conditions for selected Biophysical Settings."
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/landfirevegmodels/v2.0.0/Current-Example-Models.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/landfirevegmodels/v2.0.0/Current-Example-Models.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Current-Example-Models.png">
     </onlineLibrary>
     <onlineLibrary 
       name="reference-condition-models" 
       displayName="Reference Condition Models"
       description="LANDFIRE reference condition state-and-transition simulation models developed to simulate the US historic range of variability (HRV) in landscape vegetation composition and disturbance regimes."
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/landfirevegmodels/v2.0.0/Reference-Condition-Models.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/landfirevegmodels/v2.0.0/Reference-Condition-Models.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/Reference-Condition-Models.png">
     </onlineLibrary>
     <onlineLibrary 
       name="AK-reference-condition-models" 
       displayName="Alaska Reference Condition Models"
       description="LANDFIRE reference condition state-and-transition simulation models for Alaska, developed to simulate the historic range of variability (HRV) in landscape vegetation composition and disturbance regimes."
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/landfirevegmodels/v2.0.0/AK-Reference-Condition-Models.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/landfirevegmodels/v2.0.0/AK-Reference-Condition-Models.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/AK-Reference-Condition-Models.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/landfirevegmodels/v2.0.0/AK-Reference-Condition-Models.png">
     </onlineLibrary>
   </package>
   <package
@@ -332,8 +332,8 @@
           name="lucasbuilder-conus" 
           displayName="LUCAS Builder - CONUS"
           description="Template library for the LUCAS Builder package with forest carbon simulations for CONUS"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/lucasbuilder/v2.0.2/lucasbuilder-conus.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/lucasbuilder/v2.0.2/lucasbuilder-sticker.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.2/lucasbuilder-conus.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.2/lucasbuilder-sticker.png">
       </onlineLibrary>
   </package>
   <package
@@ -346,8 +346,8 @@
           name="lucasbuilder-conus" 
           displayName="LUCAS Builder - CONUS"
           description="Template library for the LUCAS Builder package with forest carbon simulations for CONUS"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/lucasbuilder/v2.0.4/lucasbuilder-conus.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/lucasbuilder/v2.0.4/lucasbuilder-sticker.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.4/lucasbuilder-conus.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/lucasbuilder/v2.0.4/lucasbuilder-sticker.png">
       </onlineLibrary>
   </package>
   <package
@@ -360,8 +360,8 @@
       name="omniscape-example" 
       displayName="Omniscape Example"
       description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/omniscape/v2.2.0/omniscape-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/omniscape/v2.2.0/omniscape-icon.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.2.0/omniscape-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -374,8 +374,8 @@
       name="omniscape-example" 
       displayName="Omniscape Example"
       description="Example library for Omniscape that calculates and classifies habitat connectivity in Maryland, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/omniscape/v2.7.0/omniscape-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/omniscape/v2.7.0/omniscape-icon.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.7.0/omniscape-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscape/v2.7.0/omniscape-icon.png">
     </onlineLibrary>
   </package>
   <package
@@ -388,29 +388,29 @@
           name="spatial-formulation" 
           displayName="Spatial Formulation Example"
           description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/spatial-formulation.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
       </onlineLibrary>
       <onlineLibrary 
           name="tabular-formulation" 
           displayName="Tabular Formulation Example"
           description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/tabular-formulation.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
       </onlineLibrary>
       <onlineLibrary 
           name="climate-refugia" 
           displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
           description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/climate-refugia.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
       </onlineLibrary>
       <onlineLibrary 
           name="multi-cost" 
           displayName="Multi-Cost Prioritization (Ontario, Canada)"
           description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/multi-cost.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
       </onlineLibrary>
   </package>
   <package
@@ -423,29 +423,29 @@
           name="spatial-formulation" 
           displayName="Spatial Formulation Example"
           description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/spatial-formulation.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/spatial-formulation.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
       </onlineLibrary>
       <onlineLibrary 
           name="tabular-formulation" 
           displayName="Tabular Formulation Example"
           description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/tabular-formulation.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/tabular-formulation.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
       </onlineLibrary>
       <onlineLibrary 
           name="climate-refugia" 
           displayName="Climate Refugia Prioritization (FMZ 15, Ontario)"
           description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/climate-refugia.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/climate-refugia.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
       </onlineLibrary>
       <onlineLibrary 
           name="multi-cost" 
           displayName="Multi-Cost Prioritization (FMZ 15, Canada)"
           description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
-          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/multi-cost.ssimbak"
-          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v3.0.0/prioritizr-example.png">
+          libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/multi-cost.ssimbak"
+          imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v3.0.0/prioritizr-example.png">
       </onlineLibrary>
   </package>
   <package
@@ -458,15 +458,15 @@
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
   		description="Example library using a non-spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.3.8/non-spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.3.8/non-spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/non-spatial-example.png">
   	</onlineLibrary>
   	<onlineLibrary 
   		name="spatial-example" 
   		displayName="Spatial Example"
   		description="Example library using a spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.3.8/spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.3.8/spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.3.8/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -479,15 +479,15 @@
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
   		description="Example library using a non-spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
   	</onlineLibrary>
   	<onlineLibrary 
   		name="spatial-example" 
   		displayName="Spatial Example"
   		description="Example library using a spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -500,15 +500,15 @@
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
   		description="Example library using a non-spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
   	</onlineLibrary>
   	<onlineLibrary 
   		name="spatial-example" 
   		displayName="Spatial Example"
   		description="Example library using a spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -521,15 +521,15 @@
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
   		description="Example library using a non-spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
   	</onlineLibrary>
   	<onlineLibrary 
   		name="spatial-example" 
   		displayName="Spatial Example"
   		description="Example library using a spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -542,15 +542,15 @@
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
   		description="Example library using a non-spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/non-spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/non-spatial-example.png">
   	</onlineLibrary>
   	<onlineLibrary 
   		name="spatial-example" 
   		displayName="Spatial Example"
   		description="Example library using a spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.0/spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.0/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -563,15 +563,15 @@
   		name="non-spatial-example" 
   		displayName="Non-Spatial Example"
   		description="Example library using a non-spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.4/non-spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.4/non-spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/non-spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/non-spatial-example.png">
   	</onlineLibrary>
   	<onlineLibrary 
   		name="spatial-example" 
   		displayName="Spatial Example"
   		description="Example library using a spatial state-and-transition simulation model"
-  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.4/spatial-example.ssimbak"
-  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/stsim/v4.5.4/spatial-example.png">
+  		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/spatial-example.ssimbak"
+  		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/stsim/v4.5.4/spatial-example.png">
   	</onlineLibrary>
   </package>
   <package
@@ -591,15 +591,15 @@
       name="wisdm-example" 
       displayName="WISDM Example"
       description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.2.0/wisdm-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.2.0/wisdm-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-example.png">
     </onlineLibrary>
     <onlineLibrary 
       name="wisdm-maxent-example" 
       displayName="WISDM - Maxent Example"
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.2.0/wisdm-maxent-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.2.0/wisdm-example-maxent.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.2.0/wisdm-example-maxent.png">
     </onlineLibrary>
   </package>
   <package
@@ -612,15 +612,15 @@
       name="wisdm-example" 
       displayName="WISDM Example"
       description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example.png">
     </onlineLibrary>
     <onlineLibrary 
       name="wisdm-maxent-example" 
       displayName="WISDM - Maxent Example"
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-maxent-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.3.0/wisdm-example-maxent.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.3.0/wisdm-example-maxent.png">
     </onlineLibrary>
   </package>
   <package
@@ -633,15 +633,15 @@
       name="wisdm-example" 
       displayName="WISDM Example"
       description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.4.1/wisdm-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.4.1/wisdm-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-example.png">
     </onlineLibrary>
     <onlineLibrary 
       name="wisdm-maxent-example" 
       displayName="WISDM - Maxent Example"
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.4.1/wisdm-maxent-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.4.1/wisdm-maxent-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.4.1/wisdm-maxent-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -654,15 +654,15 @@
       name="wisdm-example" 
       displayName="WISDM Example"
       description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-example.png">
     </onlineLibrary>
     <onlineLibrary 
       name="wisdm-maxent-example" 
       displayName="WISDM - Maxent Example"
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-maxent-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-maxent-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-maxent-example.png">
     </onlineLibrary>
   </package>
   <package
@@ -675,15 +675,15 @@
       name="wisdm-example" 
       displayName="WISDM Example"
       description="Example library for modeling Brewer's Sparrow distribution in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-example.png">
     </onlineLibrary>
     <onlineLibrary 
       name="wisdm-maxent-example" 
       displayName="WISDM - Maxent Example"
       description="Example library for modeling Brewer's and Vesper's Sparrow distributions in the Wyoming Basins, USA"
-      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-maxent-example.ssimbak"
-      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/wisdm/v2.5.0/wisdm-maxent-example.png">
+      libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-maxent-example.ssimbak"
+      imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/wisdm/v2.5.0/wisdm-maxent-example.png">
     </onlineLibrary>
   </package>
   <package

@@ -9,7 +9,7 @@
     name="glacier-national-park-example-prometheus" 
     displayName="Glacier Example (Prometheus)"
     description="Example library using the Prometheus fire growth model in BurnP3+"
-    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusPrometheus/v2.5.5/prometheus-example.ssimbak"
-    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/BurnP3PlusPrometheus/v2.5.5/glacier-example.png">
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.5.5/prometheus-example.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusPrometheus/v2.5.5/glacier-example.png">
   </onlineLibrary>
 </package>

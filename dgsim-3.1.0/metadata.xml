@@ -10,8 +10,8 @@
 		name="simple-population-model"
 		displayName="Simple Pop. Model"
 		description="Example library for DG-Sim demonstrating a simple population model"
-		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/dgsim/v3.1.0/Simple%20Population%20Model%20Example.ssimbak"
-		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/dgsim/v3.1.0/simple-population-model.png">
+		libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.1.0/Simple%20Population%20Model%20Example.ssimbak"
+		imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/dgsim/v3.1.0/simple-population-model.png">
 	</onlineLibrary>
 	
 </package>

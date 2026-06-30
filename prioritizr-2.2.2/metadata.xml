@@ -10,32 +10,32 @@
         name="spatial-formulation" 
         displayName="Spatial Formulation Example"
         description="Template library that demonstrates the basics of how to build and solve a spatial conservation problem"
-        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/spatial-formulation.ssimbak"
-        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/spatial-formulation.ssimbak"
+        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
     </onlineLibrary>
 
     <onlineLibrary 
         name="tabular-formulation" 
         displayName="Tabular Formulation Example"
         description="Template library that demonstrates the basics of how to build and solve a tabular conservation problem"
-        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/tabular-formulation.ssimbak"
-        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/tabular-formulation.ssimbak"
+        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
     </onlineLibrary>
 
     <onlineLibrary 
         name="climate-refugia" 
         displayName="Climate Refugia Prioritization (Muskoka, Ontario)"
         description="Template library demonstrating a simplified version of a climate-refugia prioritization analysis"
-        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/climate-refugia.ssimbak"
-        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/climate-refugia.ssimbak"
+        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
     </onlineLibrary>
 
     <onlineLibrary 
         name="multi-cost" 
         displayName="Multi-Cost Prioritization (Ontario, Canada)"
         description="Template library for prioritizr demonstrating how to integrate multiple cost-layers into a conservation planning problem"
-        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/multi-cost.ssimbak"
-        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates.canada.temp/prioritizr/v2.2.2/prioritizr-example.png">
+        libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/multi-cost.ssimbak"
+        imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/prioritizr/v2.2.2/prioritizr-example.png">
     </onlineLibrary>
     
 </package>
