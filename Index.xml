@@ -55,6 +55,13 @@
       libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/firestarr-example.ssimbak"
       imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/glacier-example.png">
     </onlineLibrary>
+    <onlineLibrary 
+    name="BurnP3PlusFireSTARR Quickstart Tutorial"
+    displayName="Quickstart Tutorial"
+    description="BurnP3+ tutorial library using the FireSTARR fire growth model"
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/BurnP3PlusFireSTARR%20Quickstart%20Tutorial%20%28Alberta%29.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/BurnP3PlusFireSTARR/v1.5.7/glacier-example.png">
+    </onlineLibrary>
   </package>
   <package
     name="burnP3PlusPrometheus"
