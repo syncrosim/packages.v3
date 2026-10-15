@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="omniscapeImpact"
+  version="2.1.1"
+  description="Calculates changes in connectivity categories from a baseline"
+  url="https://apexrms.github.io/omniscape/"
+  location="https://github.com/ApexRMS/omniscapeImpact/releases/download/2.1.1/omniscapeImpact-2-1-1.ssimpkg">
+
+  <onlineLibrary 
+    name="omniscape-example" 
+    displayName="Omniscape Example"
+    description="Example library for OmniscapeImpact that calculates the difference in habitat connectivity between baseline and alternative scenarios"
+    libraryLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.1.1/omniscapeImpact-example.ssimbak"
+    imageLocation="https://s3.ca-central-1.amazonaws.com/apexrms.com.syncrosim.templates/omniscapeImpactExample/v2.1.1/omniscape-icon.png">
+  </onlineLibrary>
+
+</package>
