@@ -4,7 +4,7 @@
 	version="4.5.3"
 	description="The ST-Sim state-and-transition simulation model"
 	url="https://docs.stsim.net/"
-	location="https://github.com/ApexRMS/stsim/releases/download/4.5.3/stsim-4-5-3.ssimpkg">
+	location="https://downloads.syncrosim.com/packages/stsim/v4.5.3/stsim-4-5-3.ssimpkg">
 
 	<onlineLibrary 
 		name="non-spatial-example" 

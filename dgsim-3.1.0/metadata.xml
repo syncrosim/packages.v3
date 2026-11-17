@@ -4,7 +4,7 @@
   version="3.1.0"
   description="Simulates demographics of wildlife populations"
   url="https://apexrms.github.io/dgsim/"
-  location="https://github.com/ApexRMS/dgsim/releases/download/3.1.0/dgsim-3-1-0.ssimpkg">
+  location="https://downloads.syncrosim.com/packages/dgsim/v3.1.0/dgsim-3-1-0.ssimpkg">
 
 	<onlineLibrary
 		name="simple-population-model"
